@@ -21,6 +21,10 @@ npx prettier --write .
 |Update|PUT|
 |Delete|DELETE|
 
+# 記事
+
+https://qiita.com/Hashimoto-Noriaki/items/d71f972c06563ad60d53
+
 # Nest
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
