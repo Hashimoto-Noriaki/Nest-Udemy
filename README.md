@@ -13,6 +13,14 @@ npx eslint . --fix
 npx prettier --write .
 ```
 
+### CRUD
+|CRUD|HTTP|
+|-----|----|
+|Create|POST|
+|Read|GET|
+|Update|PUT|
+|Delete|DELETE|
+
 # Nest
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
