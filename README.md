@@ -1,31 +1,38 @@
 # サーバー起動
+
 ```
 $ npm run start:dev
 ```
 
 # ESLint Prettier
+
 - ESLint
+
 ```
 npx eslint . --fix
 ```
+
 - Prettier
+
 ```
 npx prettier --write .
 ```
 
 ### CRUD
-|CRUD|HTTP|
-|-----|----|
-|Create|POST|
-|Read|GET|
-|Update|PUT|
-|Delete|DELETE|
+
+| CRUD   | HTTP   |
+| ------ | ------ |
+| Create | POST   |
+| Read   | GET    |
+| Update | PUT    |
+| Delete | DELETE |
 
 # 記事
 
 https://qiita.com/Hashimoto-Noriaki/items/d71f972c06563ad60d53
 
 # Nest
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
@@ -49,4 +56,3 @@ https://qiita.com/Hashimoto-Noriaki/items/d71f972c06563ad60d53
 </p>
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
-
